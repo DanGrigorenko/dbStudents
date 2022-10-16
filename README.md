@@ -57,4 +57,5 @@ static bool createConnection()
     }
     db.open();
     return true;
+}
 ```
